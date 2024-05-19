@@ -1,0 +1,18 @@
+#root { 
+    width: 500px;
+    height: 300px;
+    margin: 30%;
+    border: solid black 1px;
+    background-color: rgb(240, 228, 214);
+   
+    background-position-y: center;
+  background-image: url("https://68.media.tumblr.com/69a5b8dc5ad6608fb89f46fd8644ccb7/tumblr_nloh6sS4gN1ryhuh7o1_500.gif");
+ text-shadow: 2px 2px 5px ;
+  animation-name: example;
+  animation-duration: 15s;
+  animation-iteration-count: 2;
+  font-size: 2em;
+  text-align: center;
+  margin-top: 10%;
+
+}
